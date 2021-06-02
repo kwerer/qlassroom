@@ -1,0 +1,96 @@
+/*MainDashboard*/
+.Dashboard {
+  margin-left: 40px;
+
+  flex-direction: row;
+}
+
+.DashboardImages {
+  margin-top: 10px;
+}
+
+.SecondaryDashboard {
+  align-self: center;
+  margin-left: 40px;
+
+  bottom: 40px;
+}
+
+.MainSecondaryDashboard {
+  bottom: 40px;
+}
+
+.Announcements {
+  left: 30px;
+}
+
+.SecondaryAnnouncements {
+  left: 30px;
+}
+
+.PurpleDashboardSegment {
+  font-family: "Segoe UI";
+  color: white;
+  font-weight: 700;
+}
+
+.BlueDashboardSegment {
+  font-family: "Segoe UI";
+  font-size: 12px;
+  color: black;
+  font-weight: 400;
+  word-wrap: break-word;
+  margin-top: 10px;
+  padding: 5px 10px;
+}
+
+.AnnouncementsSegment {
+  border-radius: 7px;
+  background-color: #84ceeb;
+  text-align: center;
+}
+
+.Empty1 {
+  background-color: pink;
+}
+
+.Empty2 {
+  background-color: green;
+}
+
+/*HomeDashboard*/
+.banner {
+  height: 7vh;
+}
+
+.BannerIcon {
+  padding-top: 5px;
+}
+
+.BannerImage {
+  padding-top: 1px;
+}
+/*SideBar*/
+
+.MainSideBar {
+  height: 94.99%;
+}
+
+.DashboardSegment {
+  margin-left: 12%;
+}
+
+.SegmentHeader {
+  color: blue;
+}
+
+.Progressbars {
+  color: blue;
+}
+.ProgessSubjects {
+  color: olive;
+}
+
+.ttt {
+  background-color: teal;
+}
